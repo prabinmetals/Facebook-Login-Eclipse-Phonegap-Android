@@ -8,7 +8,7 @@ Android using Cordova phonegap (in Eclipse i.e. no CLI of phonegap)
 
 
 <b> You might optionally change: </b> <br>
-1) test.js
+1) test.js <br>
 2) myDesign.css
 
 
