@@ -2,7 +2,7 @@ function onLoad() { // Executed at the beginning from <body onload="onLoad();">
 	document.addEventListener("deviceready", function() {
 		try {
 			FB.init({
-				appId : '662089223854879', // unique app id
+				appId : '419777021506893', // unique app id
 				nativeInterface : CDV.FB,
 				useCachedDialogs : false,
 				status : true, // check login status
